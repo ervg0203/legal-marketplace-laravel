@@ -24,8 +24,8 @@ The **Legal Marketplace Platform** is a Laravel-based web application designed t
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/legal-marketplace-platform.git
-    cd legal-marketplace-platform
+    git clone https://github.com/ervg0203/legal-marketplace-laravel.git
+    cd legal-marketplace-laravel
     ```
 
 2. **Install dependencies**:
@@ -120,3 +120,19 @@ The **Legal Marketplace Platform** is a Laravel-based web application designed t
 ## Images Section
 
 The platform allows legal workers to set an **emoji-based profile image**. For example, an advocate might use the following emoji for their profile image: `👨‍⚖`. This emoji serves as a visual representation of the worker's role on the platform.
+
+![IMG-20250427-WA0009](https://github.com/user-attachments/assets/aafeabfd-b7ad-461d-b4df-7d429e22a350)
+
+![IMG-20250427-WA0003](https://github.com/user-attachments/assets/14ea29fd-c94a-47cb-959b-e2bce41e564b)
+
+![IMG-20250427-WA0004](https://github.com/user-attachments/assets/c578f628-4c4e-4b01-bb41-54328f7a157d)
+
+![IMG-20250427-WA0005](https://github.com/user-attachments/assets/c782e765-a0a0-4be5-a192-99e8dbdc0cf8)
+
+![IMG-20250427-WA0006](https://github.com/user-attachments/assets/846c4b35-0a0d-4392-947e-e9112d67952d)
+
+![IMG-20250427-WA0007](https://github.com/user-attachments/assets/bd0e3921-eaa3-412c-946a-ea29c945c2cd)
+
+![IMG-20250427-WA0010](https://github.com/user-attachments/assets/6d9cc060-0106-4e15-8da0-51464418be9f)
+
+![image](https://github.com/user-attachments/assets/cb54cc18-7a85-4e2e-b5e3-7edef06cd42d)
