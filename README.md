@@ -1,7 +1,3 @@
-Here’s the updated README for your Laravel-based Legal Marketplace Platform project with the section on images added:
-
----
-
 # Legal Marketplace Platform (Laravel)
 
 ## Overview
